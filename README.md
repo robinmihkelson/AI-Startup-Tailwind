@@ -1,1 +1,1 @@
-# Website made from figma design using Tailwind-CSS
+# Website made using figma design using Tailwind-CSS
